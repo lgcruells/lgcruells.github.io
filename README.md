@@ -4,7 +4,6 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-
         <header>
     <img src="51.jpg" alt="Foto de Frederick Cook" width="128" height="128">
     <h1>Frederick Cook</h1>
@@ -13,7 +12,6 @@
     <p>Teléfono: (243) 786-7051</p>
     <p>Dirección: 4162 Westheimer Rd.</p>
 </header>
-
             <main>
             <h2>Resumen</h2>
             <p>Experto en administración de proyectos con más de 20 años de experiencia en el sector tecnológico. Capaz de liderar equipos y asegurar la entrega de proyectos a tiempo y dentro del presupuesto. Con habilidades en gestión de presupuestos, negociación y comunicación efectiva con los clientes y proveedores.</p>
