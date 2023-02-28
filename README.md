@@ -1,6 +1,5 @@
 <html>
     <head>
-        <meta charset="UTF-8">
         <title>Currículum Vitae - Frederick Cook</title>
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
