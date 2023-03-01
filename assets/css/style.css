@@ -11,15 +11,17 @@ a:link, a:visited {
 
 body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    margin: 20;
+    margin: 50;
     padding: 0;
     background-color: #F5F5F5;
+    width: 90%;
 }
 
 /* Estilos para el encabezado */
 header {
     background-color: #1A1A1A;
     color: #FFFFFF;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     padding: 20px;
     text-align: center;
     margin: 50px;
