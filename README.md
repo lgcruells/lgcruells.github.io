@@ -14,7 +14,7 @@
 </header>
             <main>
             <h2>Resumen</h2>
-            <p>Experto en administración de proyectos con más de 20 años de experiencia en el sector tecnológico. Capaz de liderar equipos y asegurar la entrega de proyectos a tiempo y dentro del presupuesto. Con habilidades en gestión de presupuestos, negociación y comunicación efectiva con los clientes y proveedores.</p>
+            <p>Experto en administración de proyectos con más de 20 años de experiencia en el sector tecnológico. Capaz de liderar equipos y asegurar la entrega de proyectos a                 tiempo y dentro del presupuesto. Con habilidades en gestión de presupuestos, negociación y comunicación efectiva con los clientes y proveedores.</p>
             <h2>Experiencia laboral</h2>
             <h3>Gerente de Marketing Digital en ABC Company (2018-2022)</h3>
             <ul>
@@ -37,7 +37,7 @@
             <li>Identifiqué y resolví problemas técnicos relacionados con la recopilación y el análisis de datos </li>
             <li>Contribuí a la implementación de nuevas herramientas y tecnologías de análisis de datos para mejorar la eficiencia y la efectividad del proceso</li>
             <h3>Asistente Ejecutivo en Global SA. (2008-2012)</h3>
-            <li>Brindé apoyo administrativo a los ejecutivos de la empresa, incluyendo la programación de reuniones, la organización de viajes y la gestión de la correspondencia</li>
+            <li>Brindé apoyo administrativo a los ejecutivos de la empresa, incluyendo la programación de reuniones, la organización de viajes y la gestión de la                correspondencia</li>
             <li>Preparé informes y presentaciones para los ejecutivos utilizando Microsoft Office y otras herramientas de software </li>
             <li>Supervisé y gestioné la agenda de los ejecutivos, asegurando la priorización y cumplimiento de las tareas     </li>
             <li>Comunicación directa con clientes y proveedores para garantizar el cumplimiento de los plazos y la resolución de problemas </li>
