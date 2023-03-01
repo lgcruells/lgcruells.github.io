@@ -68,7 +68,7 @@ main p {
 main ul {
     margin: 20;
     padding: 0;
-    list-style-type: square;
+    list-style-type: circle;
 }
 
 main li {
